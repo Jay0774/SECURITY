@@ -1,8 +1,10 @@
 For Simple AES
-Cipher text is:df892869a341f0058019fbb21ce1f0ab
+Cipher text is:c97771f8f422b1642a04fb3a8e2ab387
 For Modified AES
-Cipher text is:ebb71762c45f174f1acafc7433d70dcf
+Cipher text is:5706f9898d5853f69cd80a2a42ac5ac2
 For Modified AES
-Cipher text is:7aabc4d1c8974e5979b54ccbc6a0dc50
+Cipher text is:a936d4da4518092b4622487c7ede6b0b
 For Modified AES
-Cipher text is:ef7a9661ec4414d6344702a82f9145c1
+Cipher text is:b1d4b41a5b6cc5f3f23f2679b3ae7a73
+For Modified AES
+Cipher text is:5706f9898d5853f69cd80a2a42ac5ac2
